@@ -1,7 +1,6 @@
 import React from 'react';
 import { getFunName } from '../helpers';
 
-
 // ES6 class
 class StorePicker extends React.Component {
   // Better for performance since goToStore will live once.
